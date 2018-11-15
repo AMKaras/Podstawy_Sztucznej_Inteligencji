@@ -1,0 +1,12 @@
+Scenariusz 2
+
+ Temata æwiczenia: Budowa i dzia³anie sieci jednowarstwowej 
+
+ 1. Cel æwiczenia 
+ Celem æwiczenia jest poznanie budowy i dzia³ania jednowarstwowych sieci neuronowych oraz uczenie rozpoznawania wielkoœci liter. 
+
+ 2.Zadania do wykonania 
+ 	a) Wygenerowanie danych ucz¹cych i testuj¹cych, zawieraj¹cych 10 du¿ych i 10 ma³ych liter dowolnie wybranego alfabetu w postaci dwuwymiarowej tablicy np. 4x5 pikseli dla jednej litery
+ 	b) Przygotowanie dwóch jednowarstwowych sieci - ka¿da wg. innego algorytmu podanego na wyk³adzie.  
+ 	c) Uczenie sieci przy ró¿nych wspó³czynnikach uczenia. 
+ 	d) Testowanie sieci. 
