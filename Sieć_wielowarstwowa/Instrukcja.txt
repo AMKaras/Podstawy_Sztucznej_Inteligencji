@@ -1,0 +1,10 @@
+Scenariusz 3
+ Temat æwiczenia: Budowa i dzia³anie sieci wielowarstwowej typu feedforward. 
+ 1. Cel æwiczenia 
+ Celem æwiczenia jest poznanie budowy i dzia³ania wielowarstwowych sieci neuronowych poprzez uczenie kszta³tu funkcji matematycznej z u¿yciem algorytmu wstecznej propagacji b³êdu. 
+ 2. Zadania do wykonania 
+	a) Wygenerowanie danych ucz¹cych i testuj¹cych dla funkcji Rastrigin 3D dla danych wejœciowych z przedzia³ów od -2 do 2. formu³a funkcji: https://en.wikipedia.org/wiki/Rastrigin_function 
+	b) Przygotowanie (implementacja lub wykorzystanie gotowych narzêdzi) wielowarstwowej sieci oraz algorytmu wstecznej propagacji b³êdu.  
+	c) Uczenie sieci dla ró¿nych wspó³czynników uczenia (np. 0.5, 0.1, 0.01) i bezw³adnoœci (np. 0, 0.5, 1). 
+	d) Testowanie sieci. 
+ 
