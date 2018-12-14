@@ -1,0 +1,12 @@
+Scenariusz 4
+
+ Temat æwiczenia: Uczenie sieci regu³¹ Hebba.
+
+ 1. Cel æwiczenia
+ Celem æwiczenia jest poznanie dzia³ania regu³y Hebba na przyk³adzie rozpoznawania emotikon.
+
+ 2. Zadania do wykonania
+	a) Wygenerowanie danych ucz¹cych i testuj¹cych, zawieraj¹cych 4 ró¿ne emotikony np. czarno-bia³e, wymiar 8x8 pikseli dla jednej emotikony.
+	b) Przygotowanie (implementacja lub wykorzystanie gotowych narzêdzi) sieci oraz regu³y Hebba w wersji z i bez wspó³czynnika zapominania.
+	c) Uczenie sieci dla ró¿nych wspó³czynników uczenia i zapominania.
+	d) Testowanie sieci
