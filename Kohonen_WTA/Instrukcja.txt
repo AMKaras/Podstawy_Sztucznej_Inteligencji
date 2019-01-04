@@ -1,0 +1,13 @@
+Scenariusz 5
+
+ Temata æwiczenia: Budowa i dzia³anie sieci Kohonena dla WTA.
+
+ 1. Cel æwiczenia 
+ Celem æwiczenia jest poznanie budowy i dzia³ania sieci Kohonena przy wykorzystaniu regu³y WTA do odwzorowywania istotnych cech kwiatów.
+
+ 2.Zadania do wykonania 
+ 	a) Przygotowanie danych ucz¹cych zawieraj¹cych numeryczny opis cech kwiatów.
+ 	b) Przygotowanie sieci Kohonena i algorytmu uczenia opartego o regu³ê Winner Takes All (WTA).  
+ 	c) Uczenie sieci przy ró¿nych wspó³czynnikach uczenia. 
+ 	d) Testowanie sieci. 
+
