@@ -1,0 +1,13 @@
+Scenariusz 6
+
+ Temata æwiczenia: Budowa i dzia³anie sieci Kohonena dla WTM.
+
+ 1. Cel æwiczenia 
+ Celem æwiczenia jest poznanie budowy i dzia³ania sieci Kohonena przy wykorzystaniu regu³y WTM do odwzorowywania istotnych cech kwiatów.
+
+ 2.Zadania do wykonania 
+ 	a) Przygotowanie danych ucz¹cych rozpoznaj¹cych 20 du¿ych liter.
+ 	b) Przygotowanie sieci Kohonena i algorytmu uczenia opartego o regu³ê Winner Takes Most (WTM).  
+ 	c) Uczenie sieci przy ró¿nych wspó³czynnikach uczenia. 
+ 	d) Testowanie sieci. 
+
